@@ -1,0 +1,29 @@
+.main {
+  margin: 20px;
+  padding: 5px;
+  border: solid 2px orange;
+  background-color: navy;
+  color: white;
+}
+.sub {
+  margin: 10px;
+  padding: 30px;
+  width: 700px;
+  background-color: brown;
+}
+.bulb {
+  height: 300px;
+  width: 200px;
+  border-radius: 50%;
+  position: relative;
+  left: 270px;
+}
+.bbut {
+  position: relative;
+  top: 125px;
+  left: 75px;
+  height: 50px;
+  width: 50px;
+  font-size: 20px;
+  font-weight: bold;
+}
