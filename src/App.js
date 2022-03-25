@@ -1,11 +1,11 @@
 import React from "react";
 import "./components/common.css";
-import { Tasklist } from "./components/Tasklist";
+import { Todolist } from "./components/Todolist";
 
 function App() {
   return (
     <div className="main">
-      <Tasklist />
+      <Todolist />
     </div>
   );
 }
